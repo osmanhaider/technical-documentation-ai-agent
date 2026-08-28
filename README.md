@@ -28,7 +28,7 @@ A large language model on its own is a sealed box: it knows its training data an
 
 The system solves this with one principle, applied everywhere:
 
-> **Explanations come from the knowledge base. Numbers come from the warehouse. The model's job is routing between them — never inventing either.**
+> **Explanations come from the knowledge base. Numbers come from the BigQuery warehouse. The model's job is routing between them — never inventing either.**
 
 Concretely:
 
